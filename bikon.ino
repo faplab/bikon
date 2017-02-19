@@ -10,8 +10,8 @@
 
 DHT dht(DHT_PIN, DHT_TYPE);
 
-const char* ssid = "Orange-6A41";
-const char* password = "A93239A9";
+const char* ssid = "";
+const char* password = "";
 
 ESP8266WebServer server(80);
 
